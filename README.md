@@ -1,5 +1,9 @@
 # Raffle App
 
+![App Video](wireframes/app.gif)
+
+[Alternate Video](https://www.youtube.com/shorts/-C70j31COtA)
+
 ## Design
 
 [Figma Design](https://www.figma.com/proto/JJRIiuywmu3C9YqYm1rJPS/Raffle-App-UI?page-id=0%3A1&type=design&node-id=1-2&viewport=610%2C442%2C0.34&scaling=scale-down&starting-point-node-id=1%3A2)
