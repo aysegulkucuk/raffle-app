@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "83725025449",
+    "project_id": "raffle-app-81417",
+    "storage_bucket": "raffle-app-81417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83725025449:android:c92579b8a801dd1d1d29b8",
+        "android_client_info": {
+          "package_name": "com.aysegulkucuk.raffleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83725025449-f6qhgkn51jkafmpsa757i0mv3b7b1pon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT0Sb8UD6dbjyfZZ8m8mOdNxuTHXrxmeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83725025449-f6qhgkn51jkafmpsa757i0mv3b7b1pon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83725025449:android:8451525d8e396ef01d29b8",
+        "android_client_info": {
+          "package_name": "com.aysegulkucuk.raffleapp.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83725025449-f6qhgkn51jkafmpsa757i0mv3b7b1pon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT0Sb8UD6dbjyfZZ8m8mOdNxuTHXrxmeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83725025449-f6qhgkn51jkafmpsa757i0mv3b7b1pon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
