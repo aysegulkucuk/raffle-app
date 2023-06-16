@@ -1,8 +1,6 @@
 # Raffle App
 
-![App Video](wireframes/app.gif)
-
-[Alternate Video](https://www.youtube.com/shorts/-C70j31COtA)
+[App Video](https://www.youtube.com/shorts/-C70j31COtA)
 
 ## Design
 
